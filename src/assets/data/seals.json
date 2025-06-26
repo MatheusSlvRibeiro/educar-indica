@@ -1,0 +1,17 @@
+[
+  {
+    "image": "GoldMedal.png",
+    "title": "Profissional em Atualização Contínua",
+    "description": "Participa da mentoria com o Dr. Gabriel Brito, discutindo casos e estudos científicos quinzenalmente em grupo multidisciplinar."
+  },
+  {
+    "image": "SilverMedal.png",
+    "title": "Profissional com Formação Ampla",
+    "description": "Concluiu diversos cursos da plataforma, demonstrando aprofundamento e comprometimento com a prática baseada em evidências."
+  },
+  {
+    "image": "icone-cerebro.png",
+    "title": "Formação em Ciência Cognitiva da Leitura",
+    "description": "Participou dos cursos baseados na ciência da leitura, com domínio das práticas que mais ajudam crianças com dificuldades."
+  }
+]

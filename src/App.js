@@ -1,13 +1,14 @@
 import './App.css';
 import HeroSection from './components/HeroSection/HeroSection';
+import Navbar from './components/Navbar/Navbar';
+import ProfessionalList from './components/ProfessionalCard/ProfessionalCard';
 
 function App() {
     return (
-        <div className="App">
+        <div className="App bg-primary">
+            <Navbar />
             <HeroSection />
-            <div className="text-3xl font-bold text-blue-600 p-10">
-                Tailwind funcionando! 🎉
-            </div>
+            <ProfessionalList />
         </div>
     );
 }
