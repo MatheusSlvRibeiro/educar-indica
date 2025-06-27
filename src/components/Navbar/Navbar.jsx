@@ -14,18 +14,25 @@ const Navbar = () => {
                         <ul className="navbar-links flex flex-row">
                               <li><a
                                     className="text-whiteColor font-medium hover:text-second px-4"
-                                    href="#home">Home</a></li>
+                                    href="https://www.educarcomevidencias.com/" 
+                                    rel='noopener noreferrer'>Home</a></li>
                               <li><a
-                                    className="text-whiteColor font-medium hover:text-second px-4" href="#features">Blog</a></li>
+                                    className="text-whiteColor font-medium hover:text-second px-4" href="https://www.educarcomevidencias.com/blog" 
+                                    rel='noopener noreferrer'>Blog</a></li>
                               <li><a
-                                    className="text-whiteColor font-medium hover:text-second px-4" href="#pricing">Cursos</a></li>
+                                    className="text-whiteColor font-medium hover:text-second px-4" href="https://www.educarcomevidencias.com/cursos" 
+                                    rel='noopener noreferrer'>Cursos</a></li>
                               <li><a
-                                    className="text-whiteColor font-medium hover:text-second px-4" href="#about">Educar Indica</a></li>
+                                    className="text-whiteColor font-medium hover:text-second px-4" 
+                                    href="/" 
+                                    rel='noopener noreferrer'>Educar Indica</a></li>
                               <li><a
                                     className="text-whiteColor font-medium hover:text-second px-4"
-                                    href="#about">Área do Aluno</a></li>
+                                    href="https://portal.educarcomevidencias.com/auth/login?redirect=%2F" 
+                                    rel='noopener noreferrer'>Área do Aluno</a></li>
                               <li><a
-                                    className="text-whiteColor font-medium hover:text-second px-4" href="#about">Loja</a></li>
+                                    className="text-whiteColor font-medium hover:text-second px-4" href="https://www.educarcomevidencias.com/loja" 
+                                    rel='noopener noreferrer'>Loja</a></li>
                         </ul>
                   </nav>
             </div>
