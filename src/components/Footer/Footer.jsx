@@ -32,7 +32,7 @@ const Footer = () => {
                             rel="noopener noreferrer"
                             aria-label="YouTube"
                         >
-                            <img src={YoutubeIcon} alt="Youtube" />
+                            <img src={YoutubeIcon} className='text-red-700' alt="Youtube" />
                         </a>
                         <a
                             href="https://www.instagram.com/drgabriel.brito"

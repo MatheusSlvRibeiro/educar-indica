@@ -235,7 +235,7 @@
     },
     {
         "nome": "Thais Reuters",
-        "foto": "",
+        "foto": "images/professionals/thaisReuters.jpg",
         "descricao": "Pedagoga e Psicopedagoga clínica possui 20 anos de experiência na área educacional nas redes pública e privada; Como Psicopedagoga Clínica, atua com demandas de alfabetização, leitura e escrita; Possui experiência em avaliação e intervenção psicopedagógica nas dificuldades e transtornos específicos de aprendizagem, minimizando os impactos de transtornos como TDAH e TEA na vida das crianças que atende.",
         "local": "Rio de Janeiro/RJ",
         "telefone": "(21) 98237-2787",
@@ -271,7 +271,7 @@
     },
     {
         "nome": "Thais Guilherme",
-        "foto": "",
+        "foto": "images/professionals/Thais.jpg",
         "descricao": "16 anos de experiência na educação, entre regência na educação infantil, ensino fundamental I e II, curso de magistério, direção e supervisão escolar; Pedagoga, especialista em gestão e supervisão escolar. Psicopedagoga e neuropsicopedagoga atuando com avaliação e intervenção de crianças e adolescentes.",
         "local": "Itajubá/MG",
         "telefone": "(35) 98805-2987",
@@ -280,7 +280,7 @@
     },
     {
         "nome": "Marcya Rodrigues Pinto de Sousa Almeida",
-        "foto": "",
+        "foto": "images/professionals/marcya.jpg",
         "descricao": "Pedagoga formada na UFPI, com especializações nas áreas de psicopedagogia e supervisão/gestão educacional pela UESPI. Com vasta experiência na área educacional (instituições privada), onde atuou a mais de 20 anos com crianças de 3 a 8 anos principalmente no processo de alfabetização. Professora concursada do município (Teresina – PI) e Psicopedagoga.",
         "local": "Teresina/PI",
         "telefone": "(86) 99986-6738",
@@ -289,7 +289,7 @@
     },
     {
         "nome": "Nathalia Vargas",
-        "foto": "",
+        "foto": "images/professionals/nathalia.jpg",
         "descricao": "Formada em Letras, especialista em Psicopedagogia e Neuroaprendizagem; Psicopedagoga, em que realiza avaliações e intervenções com crianças e adolescentes, especialmente nos campos da alfabetização e das dificuldades de aprendizagem.",
         "local": "Pindamonhagaba/SP",
         "telefone": "(12) 98114-5359",
@@ -298,7 +298,7 @@
     },
     {
         "nome": "Mateus Araújo Souza",
-        "foto": "",
+        "foto": "images/professionals/mateus.jpg",
         "descricao": "Atuando há 16 anos na Educação, é pedagogo, especialista em Educação Infantil e em Transtorno do Espectro Autista; Atualmente trabalha na direção de uma escola particular.",
         "local": "Parauapebas/PA",
         "telefone": "(94) 98118-0120",
@@ -316,7 +316,7 @@
     },
     {
         "nome": "Karina Beloti",
-        "foto": "",
+        "foto": "images/professionals/karina.jpg",
         "descricao": "Pedagoga, Neuropsicopedagoga e Pós graduada em Neurociência aplicada à Educação pela Faculdade de Ciências Médicas da Santa Casa de São Paulo e Instituto Conectomus. Atende em consultório crianças e adolescentes com TDAH já há 5 anos; Mentora de Mães na Comunidade Muito Além do TDAH.",
         "local": "Londrina/PR",
         "telefone": "(43) 8448-2391",
