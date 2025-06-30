@@ -28,7 +28,7 @@ const HeroSection = ({ selectedState, setSelectedState }) => {
     ).sort();
 
     return (
-        <section className="mx-auto max-w-[1200px] text-white py-16 px-6">
+        <section className="mx-auto max-w-[1200px] text-white py-[7rem] px-8">
             <div className="max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-10">
                 <div className="flex-1">
                     <h1 className="text-3xl md:text-[2.5rem] font-bold mb-6 leading-tight">
