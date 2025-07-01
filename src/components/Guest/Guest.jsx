@@ -20,9 +20,10 @@ const Guest = () => {
                         xl:mb-[3rem] max-w-[1200px] mx-auto">
                 <img
                     loading="lazy"
-                    src="/images/gabriel_brito.png"
+                    src="/images/gabriel_brito.jpg"
                     alt="Dr. Gabriel Brito, um homem sorridente de barba curta, cabelo castanho escuro, vestindo camisa verde escura, posando de braços cruzados em frente a um fundo azul escuro."
                     className="m-auto
+                            rounded-md
                             sm:w-[70%] 
                             md:w-[40%]"/>
 
