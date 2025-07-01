@@ -48,11 +48,11 @@ const ProfessionalList = ({ selectedState }) => {
 
     return (
         <div className="max-w-[1200px] mx-auto py-14">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 {filteredProfessionals.map((prof, index) => (
                     <div
                         key={index}
-                        className="bg-white rounded-2xl p-6 flex shadow-xl items-center gap-4 max-w-xl">
+                        className="bg-white rounded-2xl p-6 flex flex-col mx-6 sm:mx-auto sm:flex-row shadow-xl items-center gap-4 max-w-xl">
                         <img
                             src={prof.foto || "/images/default-profile.png"}
                             alt={prof.nome}

@@ -1,4 +1,4 @@
-import AboutSvg from '../../assets/images/about.svg'
+// import AboutSvg from '../../assets/images/about.svg'
 import CbmIcon from '../../assets/images/Inc/Brans Brasil Auspicios_cbm.png'
 import CumeIcon from '../../assets/images/Inc/Brans Brasil Auspicios_cume.png'
 import MackezieIcon from '../../assets/images/Inc/Brans Brasil Auspicios_Mackezie.png'
@@ -13,7 +13,7 @@ const Guest = () => {
     return (
         <section
             // style={divStyle}
-            className="text-center px-8 py-[6rem] flex justify-center">
+            className="text-center px-8 py-[6rem] flex flex-col justify-center lg:flex-row">
             <div
                 className="w-full justify-start items-center
                         md:flex md:flex-row md:mx-auto
@@ -26,7 +26,7 @@ const Guest = () => {
                             sm:w-[70%] 
                             md:w-[40%]"/>
 
-                <div className='flex flex-col text-start justify-center gap-6 p-[4rem]'>
+                <div className='flex flex-col text-start justify-center gap-6 py-[4rem] sm:p-[4rem]'>
                     <div>
                         <h1 className="text-second font-bold text-[2.2rem]">Gabriel Brito</h1>
                         <h3 className="font-medium text-[1.5rem]">Fundador</h3>
