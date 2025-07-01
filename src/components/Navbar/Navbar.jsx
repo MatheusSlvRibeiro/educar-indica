@@ -3,8 +3,8 @@ import logo from '../../assets/images/LogoA.svg'
 const Navbar = () => {
       return (
             <div 
-                  style={{ boxShadow: '0 4px 10px rgba(0, 0, 0, 0.15)' }}
-                  className='bg-[#012346] fixed w-full'>
+                  style={{ boxShadow: '0 3px 5px rgba(0, 0, 0, 0.3)' }}
+                  className='bg-[#082862] fixed w-full'>
                   <nav className="navbar flex flex-row items-center justify-between p-4 mx-auto max-w-[1200px]">
                         <div className="navbar-logo">
                               <img

@@ -1,4 +1,4 @@
-import FacebookIcon from '../../assets/icons/socialMedia/facebook-circle-fill.svg'
+import { ReactComponent as FacebookIcon } from '../../assets/icons/socialMedia/facebook-circle-fill.svg';
 import InstagramIcon from '../../assets/icons/socialMedia/instagram-line.svg'
 import YoutubeIcon from '../../assets/icons/socialMedia/youtube-fill.svg'
 
@@ -25,14 +25,14 @@ const Footer = () => {
                             contato@educarcomevidencias.com
                         </a>
                     </div>
-                    <div className="flex gap-4 mt-4 text-primary text-xl">
+                    <div className="flex gap-4 mt-4 text-xl">
                         <a
                             href="https://www.youtube.com/@educarcomevidencias"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="YouTube"
                         >
-                            <img src={YoutubeIcon} className='text-red-700' alt="Youtube" />
+                            <img src={YoutubeIcon} className='text-primary' alt="" />
                         </a>
                         <a
                             href="https://www.instagram.com/drgabriel.brito"
@@ -47,8 +47,9 @@ const Footer = () => {
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="Facebook"
+                            className='text-red-500'
                         >
-                            <img src={FacebookIcon} alt="Facebook" />
+                            <FacebookIcon className="text-red-500 w-6 h-6" />
                         </a>
                     </div>
                 </div>
@@ -88,7 +89,7 @@ const Footer = () => {
             </div>
 
             {/* Rodapé inferior */}
-            <div className="bg-[#012346] text-white text-center py-8 font-light flex items-center justify-center gap-3">
+            <div className="bg-[#082862] text-white text-center py-8 font-light flex items-center justify-center gap-3">
                 <span>
                     ©2025 Todos os direitos reservados -  Educar com Evidências LTDA | CNPJ 48.785.041/0001-67
                 </span>

@@ -10,7 +10,7 @@
     },
     {
         "nome": "Valdênia Fonseca",
-        "foto": "",
+        "foto": "images/professionals/Valdenia.jpg",
         "descricao": "Pedagoga com especialização em Orientação Educacional; Psicopedagoga Clínica e Institucional; Professora com vasta experiência em alfabetização e letramento;",
         "local": "Belo Horizonte/MG",
         "telefone": "(31) 9944-4218",
@@ -208,7 +208,7 @@
     },
     {
         "nome": "Ivete Luzia Bordion",
-        "foto": "images/professionals/ivete.jpg",
+        "foto": "images/professionals/ivete.png",
         "descricao": "Formada em Magistério e graduada em Pedagogia, com 23 anos de experiência em sala de aula. Especialista em Neuropsicopedagogia, Educação Especial e Inclusiva, Alfabetização e Letramento. Formação complementar em ABA, VB-MAPP, TDAH, autismo, dislexia e desortografia.",
         "local": "Luis Eduardo Magalhães/BA",
         "telefone": "(77) 9925-7394",
@@ -226,7 +226,7 @@
     },
     {
         "nome": "Tatiane de Aguiar",
-        "foto": "images/professionals/tatianeAguiar.jpg",
+        "foto": "images/professionals/tatianeAguiar.png",
         "descricao": "Professora há 22 anos, possui ampla experiência na educação. É licenciada em Magistério, com pós-graduação em Psicopedagogia Institucional e Clínica, Gestão e Supervisão Escolar. Atualmente, é mestranda em Ciências da Educação, aprofundando seus conhecimentos para contribuir ainda mais com a área educacional.",
         "local": "Caxias/MA",
         "telefone": "(99) 9642-8113",
@@ -253,7 +253,7 @@
     },
     {
         "nome": "Mariana Fachardo",
-        "foto": "images/professionals/marianaFachard.jpg",
+        "foto": "images/professionals/marianaFachardo.jpg",
         "descricao": "Com 29 anos de experiência na Educação, dedica-se à Psicopedagogia Clínica, trabalhando com avaliação e intervenção em dificuldades de aprendizagem. Professora de AEE e neuropsicopedagoga clínica; Pós-graduada em Psicopedagogia Clínica e Institucional, Supervisão Escolar, Saúde Mental (ênfase em CAPS), Gestão Escolar e Neuropsicopedagogia Clínica e Institucional.",
         "local": "Três Corações/MG",
         "telefone": "(35) 9972-0110",
@@ -307,7 +307,7 @@
     },
     {
         "nome": "Lilian Pozza de Oliveira",
-        "foto": "",
+        "foto": "images/professionals/LilianPozza.jpg",
         "descricao": "Profissional com 6 anos de experiência na área da Educação; Graduada em Pedagogia e especialista em Neuropsicopedagogia Institucional e Clínica. Atua como professora da Educação Infantil e do Ensino Fundamental I; Neuropsicopedagoga Clínica, realizando avaliações e intervenções com crianças em processo de aprendizagem.",
         "local": "Luis Eduardo Magalhães/BA",
         "telefone": "(77) 9918-1408",
@@ -325,7 +325,7 @@
     },
     {
         "nome": "Angélica Braga",
-        "foto": "",
+        "foto": "images/professionals/Angelica.jpg",
         "descricao": "Pedagoga com 26 anos de experiência, atuando desde a Educação Infantil até a Graduação em Psicologia. Neuropsicopedagoga Clínica e Institucional, com especialização em Neurociência Aplicada à Educação. Coautora de dois livros na área e de materiais didáticos de Matemática.",
         "local": "São Paulo/SP",
         "telefone": "(11) 942563776",

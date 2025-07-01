@@ -6,14 +6,14 @@ import SingularidadesIcon from '../../assets/images/Inc/Logo_singularidades.png'
 import UnipIcon from '../../assets/images/Inc/logo-unip.png'
 
 const Guest = () => {
-    const divStyle = {
-        backgroundImage: `url(${AboutSvg})`
-    };
+    // const divStyle = {
+    //     backgroundImage: `url(${AboutSvg})`
+    // };
 
     return (
         <section
-            style={divStyle}
-            className="bg-black bg-no-repeat bg-center bg-cover text-center px-8 py-[6rem] flex justify-center">
+            // style={divStyle}
+            className="text-center px-8 py-[6rem] flex justify-center">
             <div
                 className="w-full justify-start items-center
                         md:flex md:flex-row md:mx-auto
