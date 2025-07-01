@@ -6,6 +6,7 @@ import ProfessionalList from './components/ProfessionalList/ProfessionalList';
 import Guest from './components/Guest/Guest';
 import Footer from './components/Footer/Footer';
 import BackgroundVisual from './components/BackgroundVisual/BackgroundVisual';
+import WhatsappButton from './components/WhatsappButton/WhatsappButton';
 
 function App() {
     const [selectedState, setSelectedState] = useState(null);
@@ -18,6 +19,7 @@ function App() {
             <ProfessionalList selectedState={selectedState} />
             <Guest />
             <Footer />
+            <WhatsappButton />
         </div>
     );
 }
