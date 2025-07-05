@@ -4,7 +4,7 @@ import logo from '../../assets/images/LogoA.svg';
 const menuItems = [
     { label: 'Home', href: 'https://www.educarcomevidencias.com/' },
     { label: 'Blog', href: 'https://www.educarcomevidencias.com/blog' },
-    { label: 'Cursos', href: 'https://www.educarcomevidencias.com/cursos' },
+    { label: 'Cursos', href: 'https://cursos.educarcomevidencias.com/' },
     { label: 'Educar Indica', href: '/' },
     { label: 'Área do Aluno', href: 'https://portal.educarcomevidencias.com/auth/login?redirect=%2F' },
     { label: 'Loja', href: 'https://www.educarcomevidencias.com/loja' },
