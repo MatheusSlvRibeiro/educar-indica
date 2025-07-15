@@ -1,8 +1,8 @@
-import LogoEducar from '../../assets/images/LogoB.svg';
+import LogoEducar from '../../images/LogoA.svg';
 
 const Footer = () => {
     const linkClass =
-        "relative text-primary font-medium max-w-[170px] transition-colors duration-300 ease-in-out hover:text-primary after:content-[''] after:absolute after:left-0 after:-bottom-1 after:w-0 after:h-[2px] after:bg-primary after:transition-all after:duration-300 hover:after:w-full";
+        "relative text-whiteColor font-medium max-w-[170px] transition-colors duration-300 ease-in-out hover:text-second after:content-[''] after:absolute after:left-0 after:-bottom-1 after:w-0 after:h-[2px] after:bg-second after:transition-all after:duration-300 hover:after:w-full";
 
     const FacebookIcon = ({ className = "" }) => (
         <svg className={className} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
@@ -23,31 +23,31 @@ const Footer = () => {
     );
 
     return (
-        <footer className="bg-white text-primary">
-            <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between gap-12 md:gap-0 py-10">
+        <footer className="bg-[#082862] text-primary">
+            <div className="mx-auto  flex flex-col md:flex-row justify-between gap-12 md:gap-0 py-10 border-white border-b-[1px] max-w-[1200px]">
                 <div className="flex flex-col gap-6">
                     <img src={LogoEducar} alt="Educar com Evidências" className="w-40" />
                     <div>
-                        <h3 className="font-semibold mb-2 text-primary">Contato</h3>
+                        <h3 className="font-semibold mb-2 text-second">Contato</h3>
                         <a href="mailto:contato@educarcomevidencias.com" className={linkClass}>
                             contato@educarcomevidencias.com
                         </a>
                     </div>
                     <div className="flex gap-4 mt-4 text-xl">
                         <a href="https://www.youtube.com/@educarcomevidencias" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
-                            <YoutubeIcon className="w-8 h-8 text-primary hover:text-red-700 transition-colors" />
+                            <YoutubeIcon className="w-8 h-8 text-whiteColor hover:text-red-700 transition-colors" />
                         </a>
                         <a href="https://www.instagram.com/drgabriel.brito" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-                            <InstagramIcon className="w-8 h-8 text-primary hover:text-pink-600 transition-colors" />
+                            <InstagramIcon className="w-8 h-8 text-whiteColor hover:text-pink-600 transition-colors" />
                         </a>
                         <a href="https://www.facebook.com/projetoeducarcomevidencias" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
-                            <FacebookIcon className="w-8 h-8 text-primary hover:text-blue-600 transition-colors" />
+                            <FacebookIcon className="w-8 h-8 text-whiteColor hover:text-blue-600 transition-colors" />
                         </a>
                     </div>
                 </div>
 
                 <div className="flex flex-col gap-4 md:w-1/3 ">
-                    <h3 className="font-bold mb-2 text-primary">Links</h3>
+                    <h3 className="font-bold mb-2 text-whiteColor">Links</h3>
                     <a href="https://cumedesenvolvimento.com.br/" target="_blank" rel="noopener noreferrer" className={linkClass}>
                         Espaço CUME
                     </a>
