@@ -1,4 +1,4 @@
-import LogoEducar from '../../images/LogoA.svg';
+import LogoEducar from '../../assets/images/LogoA.svg';
 
 const Footer = () => {
     const linkClass =
